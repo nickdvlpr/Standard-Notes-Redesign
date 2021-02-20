@@ -1,0 +1,12 @@
+{
+  "name": "sn-theme-redesign",
+  "version": "1.0.0",
+  "main": "notes-redesign.css",
+  "sn": {
+    "main": "notes-redesign.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickdvlpr/Standard-Notes-Redesign.git"
+  }
+}
